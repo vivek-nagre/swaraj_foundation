@@ -1,0 +1,50 @@
+
+
+.mych {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+    }
+.maincont{
+    background: url(/img/blood-donationBG.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.notification{
+    padding-top: 0px !important;
+    color:  red;
+}
+.mr_list{
+    list-style: none;
+    text-transform: capitalize;   
+    line-height: 30px;
+    text-align: center;
+    color:  red;   
+}
+.msg{
+    color: white;
+}
+.cnt a{
+    font-size: larger;
+    text-decoration: none !important;
+    text-transform: capitalize;
+}
+
+.mymrq{
+    background:url(./img/bg_donate.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-weight: bolder;
+    font-size: 23px;
+
+}
+
+/* footer */
+
+.dedicated{
+    text-align: center;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    
+}
